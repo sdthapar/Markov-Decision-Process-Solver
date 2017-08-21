@@ -1,0 +1,16 @@
+file,gridworld_example.csv
+gamma,0.5
+epsilon,0.001
+iterations,11
+utilities
+A,1.9990234375000000000000
+B,-0.1667538510291015625000
+C,0.8488858220060449218750
+D,0.3599959662223535156250
+E,0.9995117187500000000000
+policy
+A,North
+B,North
+C,North
+D,South
+E,South
